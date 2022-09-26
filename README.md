@@ -2,6 +2,7 @@
 Tracking my code
 # mycode (Project Title)
 
+I want to learn stuff and thangs.
 One Paragraph of your project description goes here. Describe what you're trying to do.
 What is the purpose of putting up this repo?
 
@@ -22,4 +23,4 @@ What things are needed to install the software and how to install them. For now,
 
 ## Authors
 
-* **Your Name** - *Initial work* - [YourWebsite](https://example.com/)
+* **MJBirtic** - *Initial work* - [YourWebsite](https://example.com/)
